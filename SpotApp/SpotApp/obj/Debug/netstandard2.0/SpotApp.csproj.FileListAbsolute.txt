@@ -1,0 +1,12 @@
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\bin\Debug\netstandard2.0\SpotApp.deps.json
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\bin\Debug\netstandard2.0\SpotApp.dll
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\bin\Debug\netstandard2.0\SpotApp.pdb
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.csprojAssemblyReference.cache
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.csproj.CoreCompileInputs.cache
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.AssemblyInfoInputs.cache
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.AssemblyInfo.cs
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.dll
+C:\Users\mynameisfury\Documents\Desktop\GitHubProjects\SpotApp\SpotApp\SpotApp\obj\Debug\netstandard2.0\SpotApp.pdb
