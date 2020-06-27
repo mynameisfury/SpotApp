@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\SpotApp\\SpotApp\\SpotApp.UWP\\SpotApp.UWP.csproj",
+      "projectUniqueName": "D:\\mynameisfury\\GitHub_Projects\\SpotApp\\SpotApp\\SpotApp.UWP\\SpotApp.UWP.csproj",
       "projectName": "SpotApp.UWP",
-      "projectPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\SpotApp\\SpotApp\\SpotApp.UWP\\SpotApp.UWP.csproj",
+      "projectPath": "D:\\mynameisfury\\GitHub_Projects\\SpotApp\\SpotApp\\SpotApp.UWP\\SpotApp.UWP.csproj",
       "packagesPath": "C:\\Users\\mynameisfury\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\SpotApp\\SpotApp\\SpotApp.UWP\\obj\\",
+      "outputPath": "D:\\mynameisfury\\GitHub_Projects\\SpotApp\\SpotApp\\SpotApp.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\SpotApp\\SpotApp\\SpotApp\\SpotApp.csproj": {
-              "projectPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\SpotApp\\SpotApp\\SpotApp\\SpotApp.csproj"
+            "D:\\mynameisfury\\GitHub_Projects\\SpotApp\\SpotApp\\SpotApp\\SpotApp.csproj": {
+              "projectPath": "D:\\mynameisfury\\GitHub_Projects\\SpotApp\\SpotApp\\SpotApp\\SpotApp.csproj"
             }
           }
         }
